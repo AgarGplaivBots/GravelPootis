@@ -1,0 +1,35 @@
+{
+  "name": "ogar-feeder-bot",
+  "version": "1.0.0",
+  "description": "A Bot for ogar servers which follows your mouse and other cool stuff.",
+  "main": "feeder.js",
+  "dependencies": {
+    "agario-client": "latest",
+    "https-proxy-agent": "latest",
+    "ws": "latest",
+    "socket.io": "latest",
+    "socket.io-client": "latest",
+    "socks": "latest",
+    "fs-extra": "latest"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidmann4/ogar-feeder-bot.git"
+  },
+  "keywords": [
+    "ogar",
+    "agario",
+    "feeder",
+    "bot"
+  ],
+  "author": "David Mann",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/davidmann4/agario-feeder-bot/issues"
+  },
+  "homepage": "https://github.com/davidmann4/agario-feeder-bot#readme"
+}
